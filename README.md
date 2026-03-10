@@ -68,7 +68,7 @@ The project follows a standard data science workflow:
 
 ### Churn Distribution
 
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](Images/churn_distribution.png)
 
 This plot shows the overall distribution of customers who stayed vs customers who churned.
 
@@ -76,7 +76,7 @@ This plot shows the overall distribution of customers who stayed vs customers wh
 
 ### Churn by Contract Type
 
-![Churn by Contract](images/churn_by_contract_Type.png)
+![Churn by Contract](Images/churn_by_contract_Type.png)
 
 Customers with **month-to-month contracts** show a significantly higher churn rate compared to customers with long-term contracts.
 
@@ -84,7 +84,7 @@ Customers with **month-to-month contracts** show a significantly higher churn ra
 
 ### Churn vs Tenure
 
-![Churn vs Tenure](images/churn_vs_tenure.png)
+![Churn vs Tenure](Images/churn_vs_tenure.png)
 
 Customers with **short tenure** are more likely to churn compared to long-term customers.
 
@@ -92,7 +92,7 @@ Customers with **short tenure** are more likely to churn compared to long-term c
 
 ### Churn vs Monthly Charges
 
-![Churn vs Monthly Charges](images/churn_vs_monthly_charges.png)
+![Churn vs Monthly Charges](Images/churn_vs_monthly_charges.png)
 
 Customers paying **higher monthly charges** tend to churn more frequently.
 
@@ -145,7 +145,7 @@ The most important features influencing churn prediction:
 * PaymentMethod_Electronic check
 * Contract type
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 This visualization shows the top factors affecting customer churn.
 
@@ -166,4 +166,5 @@ This visualization shows the top factors affecting customer churn.
 Gautam Jha
 B.Tech Computer Science Engineering
 Aspiring Data Analyst / Data Scientist
+
 
