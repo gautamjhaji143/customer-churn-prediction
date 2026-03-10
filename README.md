@@ -68,7 +68,7 @@ The project follows a standard data science workflow:
 
 ### Churn Distribution
 
-![Churn Distribution](Images/churn_distribution.png)
+![Churn Distribution](Images/Churn_Distribution.png)
 
 This plot shows the overall distribution of customers who stayed vs customers who churned.
 
@@ -76,7 +76,7 @@ This plot shows the overall distribution of customers who stayed vs customers wh
 
 ### Churn by Contract Type
 
-![Churn by Contract](Images/churn_by_contract_Type.png)
+![Churn by Contract](Images/Churn_by_Contract_Type.png)
 
 Customers with **month-to-month contracts** show a significantly higher churn rate compared to customers with long-term contracts.
 
@@ -84,7 +84,7 @@ Customers with **month-to-month contracts** show a significantly higher churn ra
 
 ### Churn vs Tenure
 
-![Churn vs Tenure](Images/churn_vs_tenure.png)
+![Churn vs Tenure](Images/Churn_Vs_Tenure.png)
 
 Customers with **short tenure** are more likely to churn compared to long-term customers.
 
@@ -92,7 +92,7 @@ Customers with **short tenure** are more likely to churn compared to long-term c
 
 ### Churn vs Monthly Charges
 
-![Churn vs Monthly Charges](Images/churn_vs_monthly_charges.png)
+![Churn vs Monthly Charges](Images/Churn_Vs_Monthly_Charges.png)
 
 Customers paying **higher monthly charges** tend to churn more frequently.
 
@@ -166,5 +166,6 @@ This visualization shows the top factors affecting customer churn.
 Gautam Jha
 B.Tech Computer Science Engineering
 Aspiring Data Analyst / Data Scientist
+
 
 
