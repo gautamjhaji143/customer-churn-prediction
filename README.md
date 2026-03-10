@@ -163,9 +163,10 @@ This visualization shows the top factors affecting customer churn.
 
 ## Author
 
-Gautam Jha
-B.Tech Computer Science Engineering
+Gautam Jha   
+B.Tech Computer Science Engineering   
 Aspiring Data Analyst / Data Scientist
+
 
 
 
